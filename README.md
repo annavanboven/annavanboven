@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to my GitHub Profile!
+
+I am a recent graduate from the University of Puget Sound in Tacoma, Washington, where I majored in Computer Science and Mathematics. 
 
 <!--
 **annavanboven/annavanboven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
